@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "firstName": "Elias",
+    "lastName": "Brazel",
+    "address":
+    {
+      "city": "Carmo do Cajuru",
+      "street": "Sherman",
+      "houseNumber": 1,
+      "flatNumber": 1,
+      "postCode": "35510-000"
+    }
+  ,
+    "orders": [
+      {
+        "id": 1,
+        "type": "type",
+        "content": "content",
+        "date": 1602670467896,
+        "cost": 123,
+        "deliveryDate": 1602670467896
+      },
+      {
+        "id": 2,
+        "type": "type",
+        "content": "content",
+        "date": 1602670467896,
+        "cost": 555,
+        "deliveryDate": 1602670467896
+      }
+    ]
+  }
+]
